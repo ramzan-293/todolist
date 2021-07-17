@@ -1,0 +1,14 @@
+body {
+  background-color: wheat;
+}
+h3 {
+  color: blue;
+  font-weight: bold;
+}
+.nav-item {
+  font-weight: bold;
+}
+.nav-item:hover
+{
+    background-color:pink;
+}
